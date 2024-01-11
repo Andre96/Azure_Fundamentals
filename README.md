@@ -3,7 +3,7 @@
 ![Azure Fundamentals Logo](Images/Azure-AZ-900_image.png)
 
 This Document has the purpose to create a collection of questions about Azure Fundamentals usable to understand how deeply you understood it.
-_________________
+
 
 # Usage
 
@@ -47,7 +47,7 @@ Let's warm up a bit...
 # Cloud concepts
 
 Now we are redy to start, here will be asked questions about cloud concepts.
-___________
+
 
 ## Cloud computing
 <details>
