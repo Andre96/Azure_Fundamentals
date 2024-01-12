@@ -238,7 +238,7 @@ While the SaaS model may be the least flexible, it’s also the easiest to get u
 # Azure architecture and services
 Good job till now, keep it up! Let's change topic! 
 Mantain this Image as reference for all this topic
-![hierarchy]()
+![hierarchy](Images/account-scope-levels-9ceb3abd.png)
 ## Core architectural components of Azure
 
 <details>
@@ -248,6 +248,8 @@ Mantain this Image as reference for all this topic
 
 <details>
   <summary><b>Describe Azure physical infrastructure</b></summary>
+  
+  ![Phisical infrastructure](Images/region-pairs.png)
   The physical infrastructure for Azure starts with datacenters. Conceptually, the datacenters are the same as large corporate datacenters. They’re facilities with resources arranged in racks, with dedicated power, cooling, and networking infrastructure.
 
 As a global cloud provider, Azure has datacenters around the world. However, these individual datacenters aren’t directly accessible. Datacenters are grouped into **Azure Regions** or **Azure Availability Zones** that are designed to help you achieve resiliency and reliability for your business-critical workloads.
