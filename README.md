@@ -324,7 +324,7 @@ Similar to using resource groups to separate resources by function or access, yo
 If you have many subscriptions, you might need a way to efficiently manage access, policies, and compliance for those subscriptions. Azure management groups provide a level of scope above subscriptions. You organize subscriptions into containers called management groups and apply governance conditions to the management groups. All subscriptions within a management group automatically inherit the conditions applied to the management group, the same way that resource groups inherit settings from subscriptions and resources inherit from resource groups. Management groups give you enterprise-grade management at a large scale, no matter what type of subscriptions you might have. Management groups can be nested.
 
 You can build a flexible structure of management groups and subscriptions to organize your resources into a hierarchy for unified policy and access management. The following diagram shows an example of creating a hierarchy for governance by using management groups.
-![Management group, subscriptions, and resource group hierarchy]()
+![Management group, subscriptions, and resource group hierarchy](Images/management-groups-subscriptions.png)
 </details>
 
 <details>
