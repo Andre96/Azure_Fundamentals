@@ -103,7 +103,9 @@ A fourth, and increasingly likely scenario is a multi-cloud scenario. In a multi
 
 <details>
   <summary><b>How is the Cloud environment managed?</b></summary>
+  
   ### Azure Arc
+  
   Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
 </details>
 
@@ -327,9 +329,21 @@ You can build a flexible structure of management groups and subscriptions to org
 ![Management group, subscriptions, and resource group hierarchy](Images/management-groups-subscriptions.png)
 </details>
 
+## Azure compute and networking services
+
 <details>
-  <summary><b>Question</b></summary>
-  answer
+  <summary><b>Describe Azure virtual machines</b></summary>
+  With Azure Virtual Machines (VMs), you can create and use VMs in the cloud. VMs provide infrastructure as a service (IaaS) in the form of a virtualized server and can be used in many ways. Just like a physical computer, you can customize all of the software running on your VM. VMs are an ideal choice when you need:
+
+- Total control over the operating system (OS).
+- The ability to run custom software.
+- To use custom hosting configurations.
+  
+An Azure VM gives you the flexibility of virtualization without having to buy and maintain the physical hardware that runs the VM. However, as an IaaS offering, you still need to configure, update, and maintain the software that runs on the VM.
+
+You can even create or use an already created image to rapidly provision VMs. You can create and provision a VM in minutes when you select a preconfigured VM image. An image is a template used to create a VM and may already include an OS and other software, like development tools or web hosting environments.
+
+
 </details>
 
 <details>
