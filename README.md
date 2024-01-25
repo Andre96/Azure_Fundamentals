@@ -429,8 +429,16 @@ Connectivity can be from an any-to-any (IP VPN) network, a point-to-point Ethern
 </details>
 
 <details>
-  <summary><b>Question</b></summary>
-  answer
+  <summary><b>Describe Azure DNS</b></summary>
+  Azure DNS is a hosting service for DNS domains that provides name resolution by using Microsoft Azure infrastructure. By hosting your domains in Azure, you can manage your DNS records using the same credentials, APIs, tools, and billing as your other Azure services.
+Azure DNS leverages the scope and scale of Microsoft Azure to provide numerous benefits, including:
+
+- Reliability and performance
+- Security
+- Ease of Use
+- Customizable virtual networks
+- Alias records
+  
 </details>
 
 <details>
